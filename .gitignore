@@ -1,0 +1,35 @@
+.vs/
+
+src/Domain/obj/
+
+src/Domain/bin/
+
+src/Infrastructure/bin/
+
+src/Infrastructure/obj/
+
+src/Presentation.WebAPI/bin/
+
+src/Presentation.WebAPI/obj/
+
+**/Properties/launchSettings.json
+
+dependencies/ConfigurationCollector/bin/
+# Sonar Scanner working directories
+.sonar/
+.scannerwork/
+.sonarqube/
+results/
+
+*.bkp
+
+*.dtmp
+
+*.user
+
+# MSTest test Results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+TenantManager/Presentation.WebAPI/obj/project.nuget.cache
+
+TenantManager/Presentation.WebAPI/obj/project.assets.json
